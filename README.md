@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on frontend web development.
-- 🌱 I’m currently learning machine learning.
+- 🌱 I’m currently learning ML.
 - 👯 I’m looking to collaborate on opensource projects. 
 - 🤔 I’m looking for help with internships.
 - 💬 Ask me about python, web development, machine learning.
