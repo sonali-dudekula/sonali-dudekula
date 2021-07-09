@@ -1,6 +1,6 @@
 # SAI SONALI
-### Hi there 👋
-##### I am Sai Sonali. I work with frontend web development, python, and machine learning. I am an opensource enthusiastic. I am always passionate in exploring and learning new technologies. Tech enthusiastic.
+## Hi there 👋
+#### I am Sai Sonali. I work with frontend web development, python, and machine learning. I am an opensource enthusiastic. I am always passionate in exploring and learning new technologies. Tech enthusiastic.
 
 
 - 🔭 I’m currently working on frontend web development.
