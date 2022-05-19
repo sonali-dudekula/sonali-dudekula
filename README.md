@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=sonali-dudekula&style=flat-square&color=red" alt="" width="95"/>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=sonali-dudekula&style=flat-square&color=red" alt="" width="100"/></p>
 <h1 align="center">
    Hi, I'm Sai Sonali
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -34,6 +34,7 @@ I am a Junior Year Undergrad <img src="https://media.giphy.com/media/iDySIfR42zb
 ---
 
 ## :hammer_and_wrench: Languages and Tools :
+<br>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="45" height="45"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="python" width="45" height="45"/>&nbsp;
@@ -57,9 +58,9 @@ I am a Junior Year Undergrad <img src="https://media.giphy.com/media/iDySIfR42zb
 ## 📈 GitHub Stats
 ![](https://activity-graph.herokuapp.com/graph?username=sonali-dudekula&theme=dracula&hide_border=true)
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sonali-dudekula&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true" style="max-width:100%;">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sonali-dudekula&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true" style="max-width:75%;">
 
-<img height="180em" style="max-width:100%;" src="https://github-readme-streak-stats.herokuapp.com?user=sonali-dudekula&theme=dracula">
+<img height="180em" style="max-width:75%;" src="https://github-readme-streak-stats.herokuapp.com?user=sonali-dudekula&theme=dracula">
 </p>
 
 
