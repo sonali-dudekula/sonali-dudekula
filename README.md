@@ -20,6 +20,35 @@
 
 ---
 
+### :woman_technologist: About Me :
+I am a Junior Year Undergrad <img src="https://media.giphy.com/media/iDySIfR42zbXnag4mx/giphy.gif" width="30"> from India.
+
+- :telescope: Currently working on Cross-platform App Development using Flutter <img src="https://media.giphy.com/media/onmWTi6M3SikcnI82V/giphy.gif" width="20">.
+
+- :seedling: Exploring various fields of technology <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. 
+
+- :zap: In my free time, I listen to music <img src="https://media.giphy.com/media/3ohzdTus9Fkt0ihsfm/giphy.gif" width="15">.
+
+- :mailbox:How to reach me: sonalidudekula@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -29,15 +58,16 @@ https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif
 https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif
 https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif
 
+https://media.giphy.com/media/PdrdfTTrlANszSLYNA/giphy.gif
+https://media.giphy.com/media/LRIVkygJ5CID6IEMes/giphy.gif
+https://media.giphy.com/media/dUYiHLvd7RHYDGpWoX/giphy.gif
+https://media.giphy.com/media/VDdh2wgmzsXAc7FCd7/giphy.gif
+https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif
 
 
 
 
-
-
-
-
-
+https://media.giphy.com/media/iDySIfR42zbXnag4mx/giphy.gif
 
 
 
