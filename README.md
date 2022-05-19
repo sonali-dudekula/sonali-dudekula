@@ -20,7 +20,7 @@
 
 ---
 
-### :woman_technologist: About Me :
+## :woman_technologist: About Me :
 I am a Junior Year Undergrad <img src="https://media.giphy.com/media/iDySIfR42zbXnag4mx/giphy.gif" width="30"> from India.
 
 - :telescope: Currently working on Flutter Cross-platform App Development <img src="https://media.giphy.com/media/onmWTi6M3SikcnI82V/giphy.gif" width="20">.
@@ -33,7 +33,7 @@ I am a Junior Year Undergrad <img src="https://media.giphy.com/media/iDySIfR42zb
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="45" height="45"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="python" width="45" height="45"/>&nbsp;
@@ -52,9 +52,15 @@ I am a Junior Year Undergrad <img src="https://media.giphy.com/media/iDySIfR42zb
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="45" height="45"/>&nbsp;
 </div>
 
+---
 
+## 📈 GitHub Stats
+![](https://activity-graph.herokuapp.com/graph?username=sonali-dudekula&theme=dracula&hide_border=true)
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sonali-dudekula&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true" style="max-width:100%;">
 
-
+<img height="180em" style="max-width:100%;" src="https://github-readme-streak-stats.herokuapp.com?user=sonali-dudekula&theme=dracula">
+</p>
 
 
 
