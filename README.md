@@ -1,4 +1,63 @@
-# SAI SONALI
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="125"/>
+</div>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/sai-sonali-63a402195/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/saisonali_d">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=sonali-dudekula&style=flat-square&color=red" alt="" width="95"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--# SAI SONALI
 ## Hi there 👋
 #### I am Sai Sonali. I am familiar with frontend web development, python, and machine learning. I am an opensource enthusiastic. I am always passionate in exploring and learning new technologies. Tech enthusiastic.
 
