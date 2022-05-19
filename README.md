@@ -9,6 +9,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+<br>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=sonali-dudekula&style=flat-square&color=red" alt="" width="100"/></p>
 <h1 align="center">
    Hi, I'm Sai Sonali
