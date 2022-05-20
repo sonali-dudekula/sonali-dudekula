@@ -54,8 +54,7 @@ I am a Junior Year Undergrad <img src="https://media.giphy.com/media/iDySIfR42zb
 ---
 
 ## 📈 GitHub Stats
-  
-<br>
+
   
 <div align="center">
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=sonali-dudekula&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true" style="max-width:100%;" width=400>
