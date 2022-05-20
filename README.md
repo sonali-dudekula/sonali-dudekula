@@ -11,15 +11,14 @@
 </div>
 <br>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=sonali-dudekula&style=flat-square&color=red" alt="" width="100"/></p>
-<h1 align="center">
-   Hi, I'm Sai Sonali
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-<div align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600" height="300"/>
-</div>
 
----
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=librefranklin&size=55&color=BD93F9&center=true&vCenter=true&width=750&height=150&lines=Hey,+there!%F0%9F%91%8B;I'm+Sai+Sonali%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Nice+to+meet+you!">
+  </a>
+
+
 
 ## :woman_technologist: About Me :
 I am a Junior Year Undergrad <img src="https://media.giphy.com/media/iDySIfR42zbXnag4mx/giphy.gif" width="25"> from India.
@@ -109,7 +108,14 @@ https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif
 
 
 
-
+</h1>
+<h1 align="center">
+   Hi, I'm Sai Sonali
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600" height="300"/>
+</div>
 
 
 
