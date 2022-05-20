@@ -28,7 +28,7 @@ I am a Junior Year Undergrad <img src="https://media.giphy.com/media/iDySIfR42zb
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> Exploring various fields of technology. 
 
-- <img src="https://media.giphy.com/media/5QKndleQPghSYfYrS5/giphy.gif" width="25"> In my free time, I listen to music.
+- <img src="https://media.giphy.com/media/5QKndleQPghSYfYrS5/giphy.gif" width="20"> In my free time, I listen to music.
 
 - <img src="https://media.giphy.com/media/Q5pH4UmOiQciITstXU/giphy.gif" width="25"> How to reach me: sonalidudekula@gmail.com
 
