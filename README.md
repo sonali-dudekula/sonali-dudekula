@@ -61,7 +61,7 @@ I am a Junior Year Undergrad <img src="https://media.giphy.com/media/iDySIfR42zb
 <img align="right" height="180em" style="max-width:100%;" width=400 src="https://github-readme-streak-stats.herokuapp.com?user=sonali-dudekula&theme=dracula">
 </div>
 
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
   
 ![](https://activity-graph.herokuapp.com/graph?username=sonali-dudekula&theme=dracula&hide_border=true)
 
