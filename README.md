@@ -21,11 +21,11 @@
 ## :woman_technologist: About Me :
 I am a Junior Year Undergrad <img src="https://media.giphy.com/media/iDySIfR42zbXnag4mx/giphy.gif" width="25"> from India.
 
-- <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="25"> Currently working on Flutter Cross-platform App Development.
+- Currently working on Flutter Cross-platform App Development <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="25"> .
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> Exploring various fields of technology. 
+- Exploring <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> various fields of technology. 
 
-- <img src="https://media.giphy.com/media/5QKndleQPghSYfYrS5/giphy.gif" width="20"> In my free time, I listen to music.
+- In my free time, I listen to music <img src="https://media.giphy.com/media/5QKndleQPghSYfYrS5/giphy.gif" width="20">.
 
 - <img src="https://media.giphy.com/media/Q5pH4UmOiQciITstXU/giphy.gif" width="25"> How to reach me: sonalidudekula@gmail.com
 
