@@ -15,7 +15,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=librefranklin&size=55&color=BD93F9&center=true&vCenter=true&width=750&height=145&lines=Hello,+there!%F0%9F%91%8B;I'm+Sai+Sonali%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Nice+to+meet+you!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=librefranklin&size=55&color=BD93F9&center=true&vCenter=true&width=750&height=150&lines=Hello,+there!%F0%9F%91%8B;I'm+Sai+Sonali%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Nice+to+meet+you!">
   </a>
 
 ## :woman_technologist: About Me :
